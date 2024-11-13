@@ -91,7 +91,7 @@ SUB AL,BL
 HLT
 ```
 ## Output  
-![Screenshot 2024-08-24 135320](https://github.com/user-attachments/assets/e6454265-f828-4897-8be9-a5be8329ddfb)
+![Screenshot 2024-08-24 140252](https://github.com/user-attachments/assets/5138035a-b516-424f-b89c-066d85fe8cc8)
 
 
 ## Multiplication alp 
@@ -102,7 +102,7 @@ MUL BL
 HLT
 ```
  ## Output  
-![Screenshot 2024-08-24 135920](https://github.com/user-attachments/assets/ce431052-aa78-4e9f-89d0-424a97809c2f)
+![Screenshot 2024-08-24 140703](https://github.com/user-attachments/assets/adffd023-adcd-42c4-93b1-e9aaf908a5cf)
 
 ## Division alp 
 ```
@@ -113,7 +113,7 @@ HLT
 ```
 
 ## Output  
-![Screenshot 2024-08-24 140305](https://github.com/user-attachments/assets/0c8eb0b2-0ed7-48e9-a679-1c02d3a68408)
+![Screenshot 2024-08-24 140834](https://github.com/user-attachments/assets/5c7a0509-cdab-4080-a80a-e8136c2a3015)
 
 ## Programs for logical operations
 ## AND
